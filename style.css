@@ -1,0 +1,28 @@
+
+
+.title{color: blue;
+    font-size: 500%;
+    font-style: italic;
+    text-align: center;
+    
+
+
+
+}
+.btn2{
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 50px;
+    width: 100px;
+    height: 50px;
+    size: 50px;
+    border: none;
+    font-size: 20px;
+    box-shadow: 10px 5px 20px black; 
+    
+}
+.col-a{
+    margin: 80px;
+    padding-left: 100px;
+
+}
